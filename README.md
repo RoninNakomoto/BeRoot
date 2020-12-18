@@ -15,9 +15,12 @@ $ python beroot.py
 ```
 
 
-won't be updating the windows version anytime soon. Please refer to origin repository for updates to the windows version.
+
 
 Will be gradually issuing some upgrades and new features for the linux version.
+For windows version updates, check origin repository.
+
+
 
 
 
