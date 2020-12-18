@@ -13,8 +13,7 @@ $ git clone https://github.com/RoninNakomoto/BeRoot.git
 $ cd BeRoot/Linux
 $ python beroot.py
 ```
-
-</br></br>
+</br>
 
 Will be gradually issuing some upgrades and new features for the linux version.
 For windows version updates, check origin repository.
