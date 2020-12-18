@@ -1,7 +1,7 @@
 # BeRoot - Privilege Escalation Checker
 
 
-BeRoot Project is a post exploitation assessment tool which checks for common misconfigurations which might facilitate privilege escalation. 
+BeRoot Project is a post exploitation assessment tool which checks for common misconfigurations that might facilitate privilege escalation. 
 This project works on Windows, Linux and Mac OS.
 Linux version  now fully compatible with Python 3 and uses latest version of linux-exploit-suggester tool.
 
